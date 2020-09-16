@@ -3,7 +3,7 @@ k8s-work is learning workbench
 
 $ vangrant up
 
-# This should bring up one Kmaster and three Kworker nodes
+#This should bring up one Kmaster and three Kworker nodes
 
 
 $ vagrant status
