@@ -31,8 +31,11 @@ command will remove all the nodes.
 Edit /etc/hosts file and add below entries
 
 172.16.16.100 kmaster.delixus.com kmaster
+
 172.16.16.101 kworker1.delixus.com kworker1
+
 172.16.16.102 kworker2.delixus.com kworker2
+
 172.16.16.103 kworker2.delixus.com kworker3
 
 You are good to go for application installation.
